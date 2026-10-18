@@ -6,13 +6,13 @@
   - Nível	    Situação	            Cor
     Nível 1	    Muito baixo (crítico)	Vermelho
     Nível 2	    Baixo	                Amarelo
-    Nível 3 	Médio	                Verde
+    Nível 3   	Médio	                Verde
     Nível 4	    Alto	                Ciano
-    Nível 5	    Muito alto (alerta)	    Azul
+    Nível 5	    Muito alto (alerta)	  Azul
  
 - Como utilizar:
     - O próprio sistema informa o grau de risco conforme a consulta que é realizada, basta teclar "enter".
-  - 
+  cd
 # Sistema
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
